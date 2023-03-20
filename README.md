@@ -1,6 +1,8 @@
 # Telegram-Bot
 Бот в Телеграме для транслитерации ФИО в соответствии с [Приказом МИД России от 12.02.2020 № 2113](https://www.consultant.ru/document/cons_doc_LAW_360580/9eb761ae644ec1e283b3a50ef232330b924577cb/)
 
+![]https://github.com/rrishkulova/Telegram-Bot/blob/main/GIF.gif
+
 # Инструкция
 
 1. В Telegram необходимо найти @BotFather
